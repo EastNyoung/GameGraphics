@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Engine/Temp
+Graphics/Temp
+Output
+.vs
